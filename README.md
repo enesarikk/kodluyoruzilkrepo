@@ -6,7 +6,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End oluşturduğumuz ilk
 Öncelikle projeyi clonelayın.
 
 ```
-git clone [git@github.com:enesarikk/kodluyoruzilkrepo.git](https://github.com/enesarikk/kodluyoruzilkrepo)
+git clone https://github.com/enesarikk/kodluyoruzilkrepo
 ```
 
 ## Usage
