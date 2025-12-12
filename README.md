@@ -2,7 +2,7 @@
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![](c:\Users\enesa\Desktop\MY_CAREER\kodluyoruzilkrepo\SS.png)
+![Resim](https://i.hizliresim.com/h0qknje.png)
 
 ## Installation
 
